@@ -16,9 +16,7 @@
 ___
 ## Запуск программы:
 
-cd cmd/
-
-go run main.go
+make run
 
 
 for parsing 3 first position on [Cryptorank](https://cryptorank.io/)
