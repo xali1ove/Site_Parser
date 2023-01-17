@@ -16,7 +16,7 @@
 ___
 ## Запуск программы:
 
-make run
+*make run*
 
 
 for parsing 3 first position on [Cryptorank](https://cryptorank.io/)
